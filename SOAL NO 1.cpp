@@ -1,3 +1,6 @@
+// Name: DWIYANDRA RAYSHA PUTRA SYAWAL
+// NPM: 2410631170069
+
 #include <iostream>
 #include <vector>
 using namespace std;
